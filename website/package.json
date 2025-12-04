@@ -8,10 +8,10 @@
     "npm": ">=9.6.7"
   },
   "devDependencies": {
-    "@hashicorp/platform-cli": "^2.6.0",
+    "@hashicorp/platform-cli": "^2.8.0",
     "@hashicorp/platform-content-conformance": "^0.0.10",
     "husky": "4.3.8",
-    "next": "^14.1.0",
+    "next": "^14.2.32",
     "prettier": "2.2.1"
   },
   "husky": {
